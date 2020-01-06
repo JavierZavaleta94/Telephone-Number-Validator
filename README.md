@@ -1,4 +1,4 @@
-# FreeCodeCamp - JavaScript Algorithms and Data Structures Projects: Telephone Number ValidatorPassed
+# FreeCodeCamp Assignment - JavaScript Algorithms and Data Structures Projects: Telephone Number Validator
 
 Return true if the passed string looks like a valid US phone number.
 
